@@ -23,5 +23,14 @@
     "mysql2": "^2.2.5",
     "nodemon": "^2.0.12",
     "sequelize": "^6.6.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JillianA328/techblog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JillianA328/techblog/issues"
+  },
+  "homepage": "https://github.com/JillianA328/techblog#readme"
 }
