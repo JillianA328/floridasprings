@@ -1,12 +1,11 @@
 :root {
-    --secondary: #dce9d5;
-    --tertiary: #788585;
+    --secondary: #431A89;
+    --tertiary: #431A89;
     --light-dark: #a1a0a1;
     --border-radius: .3rem;
-    --primary-color: rgb(251,240,207);
-    --secondary-color:white;
-    --tertiary-color: #ffa10063;
-    --quaternary-color: rgb(155, 9, 9);
+    --primary-color: rgb(203,226,224);
+    --secondary-color: #431A89;
+    --quaternary-color: #431A89;
   }
   
   * {
@@ -35,11 +34,11 @@
   }
   
   h3 {
-    color: orange;
+    color: #431A89;
   }
   
   .link-color {
-    color: var(--tertiary);
+    color: var(--secondary);
     padding: 10px;
     margin: 10px
   }
@@ -134,9 +133,9 @@
     padding: 0 10px;
     display: inline-block;
     border-radius: var(--border-radius);
-    text-shadow: 1px 1px orange, 
+    /* text-shadow: 1px 1px orange, 
     2px 2px orange, 
-    3px 3px orange;
+    3px 3px orange; */
   }
   
   .list-group {
@@ -181,14 +180,15 @@
   }
   
   .card-header {
-    background-image: url(images/post_image.jpg);
+    background-image: url(https://wallpapercave.com/wp/wp4001327.jpghttp://hdqwalls.com/download/blue-purple-blur-2048x1152.jpg);
     background-color: var(--quaternary-color);
-    padding: 1%;
+    padding: 2% ;
   }
   
   .card-body {
     padding: 1%;
     color: var(--quaternary-color);
+    background-color: lavender;
   }
   
   h4 {
@@ -215,7 +215,6 @@
     color: var(--quaternary-color);
     border-radius: 10px;
     border: none;
-    background-image: linear-gradient(45deg, orange 52%, yellow 90%);
   }
   
   .login-link {
