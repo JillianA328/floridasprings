@@ -19,7 +19,7 @@
   Made by Jillian Amelung. Worked on with MaryKate Smith and Leslie ChinQuee.
 
 
-  GitHub Link:
+  GitHub Link: https://github.com/JillianA328/floridasprings
 
 
 
