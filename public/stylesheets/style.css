@@ -76,7 +76,7 @@
     color: var(--secondary-color);
     border: none;
     outline: none;
-    background-color: #1C1EA5;
+    /* background-color: #1C1EA5; */
     transform: translate(-1px, -1px);
     animation: fadeIn;
     animation-duration: 1s;
@@ -235,6 +235,7 @@
     justify-content: center;
     padding: 1%;
     font-size: 110%;
+    color: #431A89;
   }
   
   .form-label,
