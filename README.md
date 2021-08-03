@@ -12,7 +12,8 @@
   ## Usage
   Please follow this link to get to the deployed app: https://just-tech-news-ja.herokuapp.com/
 
-  <img width="1188" alt="Screen Shot 2021-08-01 at 5 32 34 PM" src="https://user-images.githubusercontent.com/79379903/127785915-39cfc4a4-e4cb-46f0-b799-38849a4ae8b9.png">
+![screenshot1](https://user-images.githubusercontent.com/81400805/127943573-345a4ebd-40c4-43f3-be80-d1e7597e170b.PNG)
+
 
 
   ## Contributers
